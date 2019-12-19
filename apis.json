@@ -1,0 +1,56 @@
+{
+    "name": "Consumer Financial Protection Bureau",
+    "description": "<p>The Consumer Financial Protection Bureau (CFPB) is an independent agency of the United States government responsible for consumer protection in the financial sector. Its jurisdiction includes banks, credit unions, securities firms, payday lenders, mortgage-servicing operations, foreclosure relief services, debt collectors and other financial companies operating in the United States.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/CFPB_Logo.png",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/consumer-financial-protection-bureau\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Consumer Financial Protection Bureau",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/CFPB_Logo.png",
+            "humanURL": "http:\/\/www.consumerfinance.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/consumer-financial-protection-bureau-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/consumer-financial-protection-bureau-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.consumerfinance.gov\/developers\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/cfpb"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CFPB"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.consumerfinance.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Consumer_Financial_Protection_Bureau"
+        }
+    ]
+}
